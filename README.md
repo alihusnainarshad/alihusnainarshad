@@ -1,5 +1,5 @@
 ### Hi there, I'm Ali Husnain Arshad 👋,
-A 24.0 Y/O Web designer🌈 and developer🎯 from Pakistan.
+A 26.0 Y/O Web designer🌈 and developer🎯 from Pakistan.
 - 🌱 I’m currently learning VUE.JS & Python
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/engr_alihusnain) or [Twitter](https://twitter.com/engr_alihusnain) - [@engr_alihusnain](https://twitter.com/engr_alihusnain)
 - 😄CEO [BoltFlare](https://boltflare.com)
